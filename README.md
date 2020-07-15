@@ -1,6 +1,6 @@
 # Rahat Mahmud
 
-Website: www.rahat.github.io
+Website: https://rahat.github.io
 
 ## Skills
 
